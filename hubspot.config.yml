@@ -1,0 +1,12 @@
+defaultPortal: leo
+portals:
+  - name: leo
+    portalId: 26030228
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CP6jh8CdMBIIAAUAAAAAAAwYlOG0DCD54e0VKO7pDDIUOHzFDsw_SJ950MEFO5QIMF-xzX86IQAABEEAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAPEIUEHeSa7PH9-82eYPa0v339M5DtrpKA2V1MVIAWgA
+        expiresAt: '2022-07-07T09:33:26.915Z'
+    personalAccessKey: >-
+      CiRldTEtNjQ2Zi1mNmE3LTRkMDUtOGJiOS1kZmZjMTI5NWE2NjYQlOG0DBj54e0VKhkABeaRgjiVunfrIefNnRVBKe5BJwDbsSzVSgNldTE

@@ -1,0 +1,28 @@
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.cards__card {
+  align-items: center;
+  align-self: flex-start;
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 1.4rem;
+  max-width: 100%;
+  width: 300px;
+  background-color: white;
+}
+
+.card__image {
+  height: auto;
+  margin: 0 auto 32px;
+  max-width: 100%;
+  padding: 0.7rem;
+}
+
+.card__text {
+  padding: 0 0.7rem;
+  width: 100%;
+}
